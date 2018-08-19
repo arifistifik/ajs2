@@ -6,7 +6,7 @@
     "namecreator": "ARIFISTIFIK",
     "autoAdd": false,
     "autoJoin": false,
-    "autoReject": false,
+    "autoReject": True,
     "autoLeave": true,
     "autoRead": false,
     "server": {},
