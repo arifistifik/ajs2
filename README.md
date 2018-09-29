@@ -78,10 +78,10 @@ Di Termux :
 EDITOR BY ARIFISTIFIK
 ------
 - `Add My ID LINE : ngak punya line😂`
-- `Sambil nonton youtue biar cepet paham yang blom tau. dulu aku juga gitu 😊. Youtube me : ARIFISTIFIK`
-#cuma saran bukan menggurui 😅
-#aku juga masih pekok kuadrat😊
 
+# ![logo](/dpksquare.png)(/https://line.me/ti/g2/AYYVNCU4U0/)
+
+------
 Thx To : ALLOH SWT & All
 ------
 - `SALAM HORMAT BUAT PARA MASTAH SEMUANYA 😅 `
