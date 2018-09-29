@@ -80,7 +80,8 @@ EDITOR BY ARIFISTIFIK
 - `Add My ID LINE : ngak punya line😂`
 
 # ![logo](/dpksquare.png)(/https://line.me/ti/g2/AYYVNCU4U0/)
-
+ 
+DPK SQUARE / [@DPKSQUARECHATBOT](https://line.me/ti/g2/AYYVNCU4U0)
 ------
 Thx To : ALLOH SWT & All
 ------
